@@ -1,0 +1,331 @@
+[
+    {
+        "year": 1930,
+        "location": {
+            "city": "Montevideo",
+            "country": "Uruguay",
+            "continent": "South America",
+            "stadium": "Estadio Centenario",
+            "attendance": 68346
+        },
+        "score": "4-2",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1934,
+        "location": {
+            "city": "Rome",
+            "country": "Italy",
+            "continent": "Europe",
+            "stadium": "Stadio Nazionale PNF",
+            "attendance": 55000
+        },
+        "score": "1-1",
+        "afterExtraTime": true,
+        "extraTimeScore": "2-1",
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1938,
+        "location": {
+            "city": "Paris",
+            "country": "France",
+            "continent": "Europe",
+            "stadium": "Stade Olympique de Colombes",
+            "attendance": 45000
+        },
+        "score": "4-2",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1950,
+        "location": {
+            "city": "Rio de Janeiro",
+            "country": "Brazil",
+            "continent": "South America",
+            "stadium": "Maracana Stadium",
+            "attendance": 173850
+        },
+        "score": "2-1",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1954,
+        "location": {
+            "city": "Bern",
+            "country": "Switzerland",
+            "continent": "Europe",
+            "stadium": "Wankdorf Stadium",
+            "attendance": 62500
+        },
+        "score": "3-2",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1958,
+        "location": {
+            "city": "Solna",
+            "country": "Sweden",
+            "continent": "Europe",
+            "stadium": "Rasunda Stadium",
+            "attendance": 49737
+        },
+        "score": "5-2",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1962,
+        "location": {
+            "city": "Santiago",
+            "country": "Chile",
+            "continent": "South America",
+            "stadium": "Estadio Nacional",
+            "attendance": 71483
+        },
+        "score": "3-1",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1966,
+        "location": {
+            "city": "London",
+            "country": "England",
+            "continent": "Europe",
+            "stadium": "Wembley Stadium",
+            "attendance": 96924
+        },
+        "score": "2-2",
+        "afterExtraTime": true,
+        "extraTimeScore": "4-2",
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1970,
+        "location": {
+            "city": "Mexico City",
+            "country": "Mexico",
+            "continent": "Central America",
+            "stadium": "Estadio Azteca",
+            "attendance": 107412
+        },
+        "score": "4-1",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1974,
+        "location": {
+            "city": "Munich",
+            "country": "Germany",
+            "continent": "North America",
+            "stadium": "Olympiastadion",
+            "attendance": 78200
+        },
+        "score": "2-1",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1978,
+        "location": {
+            "city": "Buenos Aires",
+            "country": "Argentina",
+            "continent": "South America",
+            "stadium": "Estadio Monumental",
+            "attendance": 71483
+        },
+        "score": "1-1",
+        "afterExtraTime": true,
+        "extraTimeScore": "3-1",
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1982,
+        "location": {
+            "city": "Madrid",
+            "country": "Spain",
+            "continent": "Europe",
+            "stadium": "Santiago Bernabéu",
+            "attendance": 90000
+        },
+        "score": "3-1",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1986,
+        "location": {
+            "city": "Mexico City",
+            "country": "Mexico",
+            "continent": "Central America",
+            "stadium": "Estadio Azteca",
+            "attendance": 114600
+        },
+        "score": "3-1",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1990,
+        "location": {
+            "city": "Rome",
+            "country": "Italy",
+            "continent": "Europe",
+            "stadium": "Stadio Olimpico",
+            "attendance": 73603
+        },
+        "score": "1-0",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 1994,
+        "location": {
+            "city": "Pasadena",
+            "country": "USA",
+            "continent": "North America",
+            "stadium": "Rose Bowl",
+            "attendance": 94194
+        },
+        "score": "0-0",
+        "afterExtraTime": false,
+        "extraTimeScore": "0-0",
+        "afterPenaltyShootOut": true,
+        "penaltyShootOutScore": "3-2"
+    },
+    {
+        "year": 1998,
+        "location": {
+            "city": "Saint-Denis",
+            "country": "France",
+            "continent": "Europe",
+            "stadium": "Stade de France",
+            "attendance": 80000
+        },
+        "score": "3-0",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false
+    },
+    {
+        "year": 2002,
+        "location": {
+            "city": "Yokohama",
+            "country": "Japan",
+            "continent": "Asia",
+            "stadium": "International Stadium",
+            "attendance": 69029
+        },
+        "score": "2-0",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 2006,
+        "location": {
+            "city": "Berlin",
+            "country": "Germany",
+            "continent": "Europe",
+            "stadium": "Olympiastadion",
+            "attendance": 69000
+        },
+        "score": "1-1",
+        "afterExtraTime": false,
+        "extraTimeScore": "1-1",
+        "afterPenaltyShootOut": true,
+        "penaltyShootOutScore": "5-3"
+    },
+    {
+        "year": 2010,
+        "location": {
+            "city": "Johannesburg",
+            "country": "South Africa",
+            "continent": "Africa",
+            "stadium": "Soccer City",
+            "attendance": 84490
+        },
+        "score": "0-0",
+        "afterExtraTime": true,
+        "extraTimeScore": "1-0",
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 2014,
+        "location": {
+            "city": "Rio de Janeiro",
+            "country": "Brazil",
+            "continent": "South America",
+            "stadium": "Maracana Stadium",
+            "attendance": 74738
+        },
+        "score": "0-0",
+        "afterExtraTime": true,
+        "extraTimeScore": "1-0",
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 2018,
+        "location": {
+            "city": "Moscow",
+            "country": "Russia",
+            "continent": "Asia",
+            "stadium": "Luzhniki Stadium",
+            "attendance": 78011
+        },
+        "score": "4-2",
+        "afterExtraTime": false,
+        "extraTimeScore": null,
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": null
+    },
+    {
+        "year": 2022,
+        "location": {
+            "city": "Lusail",
+            "country": "Qatar",
+            "continent": "Asia",
+            "stadium": "Lusail Stadium",
+            "attendance": 88966
+        },
+        "score": "2-2",
+        "afterExtraTime": false,
+        "extraTimeScore": "3-3",
+        "afterPenaltyShootOut": false,
+        "penaltyShootOutScore": "4-2"
+    }
+]
