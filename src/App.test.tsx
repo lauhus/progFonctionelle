@@ -3,6 +3,10 @@ import {
   getCountriesWinAndLoseFinales,
   getCountriesWinners,
   getCountriesWinnersAllFinals,
+  getCountryPlayFinals,
+  getCountryWinners,
+  getTeamWithBestParticipationAndSuccessRate,
+  getTeamWithMostFinalLosses,
 } from "./App";
 import { COUNTRIES } from "../data/countries";
 
@@ -37,5 +41,37 @@ describe('Tests pour getCountriesWinAndLoseFinales', () => {
     const result = getCountriesWinAndLoseFinales(countries);
     const expectedCountries = ['Italy', 'France', 'Argentina', 'Brazil', 'Germany'];
     expect(result.map(country => country.name)).toEqual(expect.arrayContaining(expectedCountries));
+  });
+});
+
+describe('Tests pour getCountry Winners', () => {
+  it('devrait renvoyer le pays qui a gagné le plus de finale', () => {
+    const result = getCountryWinners(countries);
+    const expectedCountry = 'Brazil'
+    expect(result.name).toEqual(expectedCountry);
+  });
+});
+
+describe('Tests pour getCountry play finals', () => {
+  it('devrait renvoyer le pays qui a joué le plus de finales', () => {
+    const result = getCountryPlayFinals(countries);
+    const expectedCountry = 'Germany'
+    expect(result.name).toEqual(expectedCountry);
+  });
+});
+
+
+describe('Test pour getTeamWithMostFinalLosses', () => {
+  it('devrait renvoyer l\'équipe ayant perdu le plus de finales de la Coupe du Monde', () => {
+    const result = getTeamWithMostFinalLosses(countries);
+    expect(result?.name).toEqual('Germany');
+  });
+});
+
+
+describe('Test pour getTeamWithBestParticipationAndSuccessRate', () => {
+  it('devrait renvoyer l\'équipe ayant le meilleur taux de participation couplé au meilleur taux de réussite en finale', () => {
+    const result = getTeamWithBestParticipationAndSuccessRate(countries);
+    expect(result?.name).toEqual('Uruguay');
   });
 });
