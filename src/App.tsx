@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { COUNTRIES, TCountry } from "../data/countries";
+import { TCountry } from "../data/countries";
 
 export function getCountriesWinners(countries: TCountry[]) {
   return countries.filter((country) => country.victories.length > 0);
@@ -19,8 +19,6 @@ export function getCountriesWinAndLoseFinales(countries: TCountry[]) {
 }
 
 function App() {
-
-
   return (
     <div className="App">
     </div>
