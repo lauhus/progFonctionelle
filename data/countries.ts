@@ -1,4 +1,12 @@
-export const COUNTRIES = [
+export type TCountry = {
+  name: string;
+  continent: string;
+  confederation: string;
+  victories: number[];
+  finals: number[];
+}
+
+export const COUNTRIES : TCountry[] = [
   {
     name: "England",
     continent: "Europe",
